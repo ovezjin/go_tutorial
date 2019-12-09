@@ -51,4 +51,7 @@ func main() {
 	for _, v := range scoreMap{
 		fmt.Println(v)
 	}
+
+	delete(scoreMap, "jin")
+	fmt.Println(scoreMap)
 }
