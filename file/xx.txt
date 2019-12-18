@@ -1,0 +1,14 @@
+abc
+xyz
+fileObj, err := os.Open("./xx.txt")
+fileObj, err := os.Open("./xx.txt")
+fileObj, err := os.Open("./xx.txt")fileObj, err := os.Open("./xx.txt")
+fileObj, err := os.Open("./xx.txt")
+fileObj, err := os.Open("./xx.txt")
+fileObj, err := os.Open("./xx.txt")fileObj, err := os.Open("./xx.txt")
+fileObj, err := os.Open("./xx.txt")
+fileObj, err := os.Open("./xx.txt")
+fileObj, err := os.Open("./xx.txt")fileObj, err := os.Open("./xx.txt")
+a
+b
+cJinHellohello
